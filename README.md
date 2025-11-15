@@ -38,4 +38,4 @@ The project follows modern Android development architecture patterns to ensure a
 1.  Clone the repository.
 2.  Open the project in Android Studio.
 3.  Allow Gradle to sync and build the project.
-4.  Run the application on an Android emulator or a physical device.
+
